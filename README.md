@@ -71,7 +71,6 @@ solana logs | grep "${PROGRAM_ID} invoke" -A 3
 Navigate to the client directory and install the dependencies and Run the client script to mint tokens and transfer them between accounts.
 
 ```bash
-cd ./rust-client
 make rust-client-start
 ```
 
