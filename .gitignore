@@ -1,10 +1,10 @@
 /node_modules
-./target
-./rust-client/target
-./client/target
-./rust-program/target
-./package.json
-./client
-./package-lock.json
-./contract
+/target
+/rust-client/target
+/client/target
+/rust-program/target
+/package.json
+/client/*
+/package-lock.json
+/contract
 
