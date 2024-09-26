@@ -1,4 +1,4 @@
-# Solana ERC20-Like Token Project
+# Solana Token Project
 
 This project showcases the creation of a token on the Solana blockchain, utilizing Rust for both the smart contract development and client-side interactions. The smart contract implemented in Rust offers fundamental token functionalities akin to those found in Ethereum tokens, including minting, transferring, and balance inquiries. On the client side, the Rust application demonstrates robust interactions with the blockchain, managing tasks such as token minting and facilitating token transfers between accounts. This dual use of Rust highlights its efficiency and suitability for blockchain development, underscoring its performance capabilities in handling both contract logic and client interactions.
 
